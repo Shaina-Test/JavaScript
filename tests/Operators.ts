@@ -1,4 +1,11 @@
 //Assignment operators
+/*Arithmetic + - * / % ** 10 % 3 gives 1
+Comparison === !== > < >= <= actual === expected
+Logical && || ! isVisible && isEnabled
+Assignment = += -= ++ retryCount += 1
+Ternary condition ? a : b status ? 'Pass' : 'Fail'
+Nullish ?? value ?? 'default'
+Optional chaining ?. user?.profile?.email*/
 
 console.log("38 — Confusing Comparisons in JS");
 // ============================================================
