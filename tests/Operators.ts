@@ -105,3 +105,15 @@ console.log([] == ![]);   // true 🤯
 // Use ==  only for null/undefined check:   if (x == null) { ... }
 // Use Object.is for NaN and -0 edge cases.
 // ============================================================
+
+Maximum Number between two numbers, by using ternary operator
+let a = 10;
+let b = 20;
+Let max = (a>b) ? "a is maximum" : "b is maximum";
+console.log(max);
+
+Let a = 10;
+Let b = 20; 
+Let c = 30;
+let max = (A>b) ? "A is maximun" : (b>c) ? "B is maximum" : "C is maximum";
+console.log(max);
